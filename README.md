@@ -1,4 +1,4 @@
-# Benchmarking Whisper on 4 different Telugu datasets via FasterWhisper
+# Benchmarking Whisper on Telugu via FasterWhisper
 
 ## Core Components : 
 
